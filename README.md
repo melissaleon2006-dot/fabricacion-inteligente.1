@@ -1,1 +1,13 @@
 # fabricacion-inteligente.1
+# Proyecto: Fabricación Inteligente con IoT y 6G
+
+## Objetivo
+Analizar datos de sensores industriales para detectar estados fuera de rango
+sin usar Machine Learning.
+
+## Estructura
+- data/: datasets
+- notebook/: análisis en Google Colab
+
+## Ejecución
+Abrir el notebook y ejecutar las celdas en orden.
